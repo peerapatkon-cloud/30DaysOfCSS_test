@@ -16,6 +16,8 @@ The 30 days of CSS challenge aims to improve learning about html and css (withou
 * Share your progress on social media using the hashtags #30DaysOfCSS and #30diasDeCSS;
 * The project must be completed by 11:59 pm.
 
+ภีรพัฒน์ คงเนียม
+
 <br>
 
 ## 🗒 Challenges 
